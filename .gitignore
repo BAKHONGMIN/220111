@@ -4,6 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
+manifest.json
+robots.text
+README.md
+public/logo*.png
+
 
 # testing
 /coverage
